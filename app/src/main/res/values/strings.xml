@@ -11,4 +11,25 @@
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
 
+    <string name="html">
+        <![CDATA[
+        <h1>Main Title</h1>
+        <h2>A sub-title</h2>
+        <p>This is some html. Look, here\'s an <u>underline</u>.</p>
+        <p>Look, this is <em>emphasized.</em> And here\'s some <b>bold</b>.</p>
+        <p>This is a UL list:
+        <ul>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+        </ul>
+        <p>This is an OL list:
+        <ol>
+        <li>One</li>
+        <li>Two</li>
+        <li>Three</li>
+        </ol>
+        ]]>
+    </string>
+
 </resources>

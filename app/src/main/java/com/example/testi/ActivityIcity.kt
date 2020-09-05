@@ -15,7 +15,23 @@ class ActivityIcity : AppCompatActivity() {
 
         val buttonrzw = findViewById<Button>(R.id.buttonrzw)
         buttonrzw.setOnClickListener {
+            // get our html content
 
+            // get our html content
+            //val htmlAsString = getString(R.string.html) // used by WebView
+
+            //val htmlAsSpanned = Html.fromHtml(htmlAsString) // used by TextView
+
+
+            // set the html content on a TextView
+
+            // set the html content on a TextView
+            //val textView = findViewById<View>(R.id.textView) as TextView
+            //textView.text = htmlAsSpanned
+
+            // Html Webview
+            //val webView = findViewById<View>(R.id.webView) as WebView
+            //webView.loadDataWithBaseURL(null, htmlAsString, "text/html", "utf-8", null)
 
         }
         val buttonrzw2 = findViewById<Button>(R.id.buttonrzw2)
